@@ -1,0 +1,8 @@
+digital-banking-architecture-for-ba
+│
+├── README.md
+├── core-vs-digital.md
+├── login-flow.md
+├── payments-flow.md
+├── architecture-diagram.png
+└── api-integration-explanation.md
